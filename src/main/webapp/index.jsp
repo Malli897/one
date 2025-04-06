@@ -12,7 +12,6 @@
     <div class="hero-content">
       <h1>Welcome to DevOps</h1>
       <h2>Now I am learning DevOps</h2>
-      <h3>Today I have implemented WebHooks to bring code to the CI server automatically</h3>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
