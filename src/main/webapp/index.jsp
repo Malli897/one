@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Welcome to My Website</h1>
-        <h2>I am learning DevOps Course</h2>
+        
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
